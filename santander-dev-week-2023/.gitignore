@@ -31,3 +31,21 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Logs
+/logs
+*.log
+
+# Spring Boot
+/spring-boot-devtools.properties
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Configurações do IDE
+/.vscode/
+/*.iml
+/.project
+/.classpath
+/.settings/
